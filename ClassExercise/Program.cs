@@ -11,6 +11,7 @@ namespace ClassExercise
             firstCar.Model = "Spacecab";
             firstCar.Year = 1992;
 
+            
             Console.WriteLine($"My first car was a {firstCar.Year} {firstCar.Make} {firstCar.Model}!");
         }
     }
